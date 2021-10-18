@@ -1,5 +1,9 @@
 # StrongsDicGerman
 
+Please use the official repository at https://gitlab.com/crosswire-bible-society/StrongsDicGerman
+
+-----
+
 Strongs based dictionary Greek <-> German.
 
  GRIECHISCH-DEUTSCH STRONG LEXIKON - 2020   
