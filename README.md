@@ -2,6 +2,8 @@
 
 Please use the official repository at https://gitlab.com/crosswire-bible-society/StrongsDicGerman
 
+This repository will no longer be maintained. 
+
 -----
 
 Strongs based dictionary Greek <-> German.
